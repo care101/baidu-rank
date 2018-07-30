@@ -19,7 +19,10 @@ https://blog.csdn.net/shelly1072/article/details/51524029
 
 ```
 npm install cnpm -g --registry=https://registry.npm.taobao.org
+cnpm -v
+npm install baidu-rank
 ```
+但是07/30安装时，这个链接：https://registry.npm.taobao.org/cheerioi 404了
 
 ## 使用
 
@@ -50,6 +53,3 @@ baiduRank(url,word,start,end)
 }]
 ```
 
-## 感谢
-
-- [汇智网](http://www.hubwiz.com)
